@@ -1,6 +1,44 @@
-Popularité;Prix;Capacité à rendre chercheur quantitatif;Difficulté d'intégration;Ville d'études;Difficulté de candidature;Pertinence à la recherche quantitative;Possibilité d'alternance
-1.00;1;1.00;0.19;1;0.00;1;0
-0.16;1;0.67;0.87;1;0.30;1;0
-0.35;1;0.24;0.43;1;0.44;1;1
-0.62;1;0.30;0.00;0.75;0.68;0.9;0
-0.59;1;0.32;0.04;0.75;0.44;0.8;0
+ID;Nom;Établissement;Popularité;Prix;Capacité à rendre chercheur quantitatif;Difficulté d'intégration;Ville d'études;Difficulté de candidature;Pertinence à la recherche quantitative;Possibilité d'alternance
+1;M2 - Parcours Probabilités et Finance (El Karoui);Institut Polytechnique de Paris;91.92;243;9.49;1.53;1;50;1;0
+2;Laure Élie / M2MO;Université Paris Cité;14.32;243;6.32;0.24;1;35;1;0
+3;M2 Ingénierie Statistique et financière;Université Paris Dauphine-PSL;44.61;243;2.00;1.49;1;57;1;1
+4;M2 - Research in Finance;Université Paris Dauphine-PSL;69.28;243;1.00;2.77;1;32.69;0.7;0
+5;M2 - Mathématiques de l'Assurance de l'Economie et de la Finance;Université Paris Dauphine-PSL;23.43;243;1.41;1.17;1;32.69;0.8;0
+6;M2 - Ingénierie économique et financière;Université Paris Dauphine-PSL;44.50;243;1.41;0.49;1;32.69;0.5;1
+7;Mathématiques, Apprentissage, Sciences et Humanités;Université Paris Dauphine-PSL;8.31;243;0.00;0.42;1;32.69;0.66;0
+8;Quantitative Economic Analysis;Université Paris Dauphine-PSL;43.13;243;0.00;1.44;1;32.69;0.6;0
+9;Financial Markets;Université Paris Dauphine-PSL;147.99;243;2.45;4.93;1;32.69;0.6;0
+10;MMMEF;Université Panthéon - Sorbonne;27.71;243;2.00;0.92;1;32.69;1;0
+11;MOSEF;Université Panthéon - Sorbonne;33.91;243;0.00;1.13;1;32.69;0.6;1
+12;M2 IRFA (choisir option Ingénierie Mathématique de la Finance);Université Panthéon - Sorbonne;23.92;243;1.00;0.80;1;32.69;1;1
+13;Monnaie, Banque, Finance, Assurance (Parcours techniques financières et bancaires);Université Panthéon - Assas;47.22;243;0.00;1.57;1;32.69;0.5;1
+14;M2 - Parcours Ingénierie mathématique (Majeure Ingénierie financière et modèles aléatoires);Sorbonne Université Sciences;32.25;243;2.24;1.07;1;32.69;1;1
+15;M2 - Parcours Probabilités et Modèles Aléatoires;Sorbonne Université Sciences;118.74;243;0.00;3.96;1;32.69;0.8;0
+16;Ingénierie Statistique et Informatique de la Finance, de l’Assurance et du Risque (ISIFAR);Université Paris Cité;26.61;243;1.41;0.89;1;32.69;0.6;0
+17;Statistique du risque;Université de Nanterre;31.94;243;0.00;1.06;0.75;32.69;0.5;1
+18;M2 DATA SCIENCE : SANTÉ, ASSURANCE ET FINANCE (choisir les options finance);Université Paris-Saclay;15.94;243;0.00;1.06;0.75;21;0.7;0
+19;M2 Finance quantitative (M2QF);Université Paris-Saclay;56.66;243;2.83;1.89;0.75;16;0.9;0
+20;M2 Mathématiques de l’aléatoire;Université Paris-Saclay;56.57;243;0.00;1.41;0.75;21;0.7;0
+21;Master mathématiques de la finance et des données (lamberton);Université Gustave Eiffel & École des Ponts - UPEC;54.41;243;3.00;1.81;0.75;32.69;0.8;0
+22;Master mathématiques et informatique (choisir option finance);UPEC;26.34;243;0.00;0.75;0.75;32.69;0.7;0
+23;Master probabilités et statistiques des nouvelles données (choisir option finance pour l’UPEC);Université Gustave Eiffel - UPEC;2.65;243;0.00;0.18;0.75;32.69;0.8;0
+24;M2 MAIF;CY Cergy Paris Université;13.00;243;0.00;1.08;0.75;32.69;0.7;0
+25;Mathematics of Randomness;Institut Polytechnique de Paris;43.01;243;0.00;1.28;0.75;46;0.9;0
+26;Statistics, Finance and Actuarial Science;Institut Polytechnique de Paris;27.55;243;1.73;0.82;0.75;46;1;0
+27;INGÉNIERIE FINANCIÈRE ET MODÉLISATION;Université Sorbonne Paris Nord;31.19;243;0.00;1.25;0.75;11;0.75;0
+28;Econométrie & Statistiques, parcours Ingénierie des Risques Financiers;ISFA;3.16;243;0.00;0.09;0.5;32.69;0.9;1
+29;Finance Quantitative;Grenoble IAE;75.03;243;3.00;2.16;0.5;32.69;0.7;0
+30;Mathématiques, finance computationnelle, actuariat;Université de Lille;25.67;243;0.00;1.60;0.5;30;0.8;1
+31;Finance quantitative;IAE Lille;44.83;243;1.41;1.49;0.5;16;0.79;0
+32;M2 IMAFA;Université Côte d’Azur;22.11;243;0.00;0.57;0.5;32.69;0.9;1
+33;Maîtrise en finance mathématique et computationnelle (MSc);Université de Montréal;32.56;1884;0.00;0.84;0.25;41;0.9;0
+34;MCom (Quantitative Finance) Research;University of Johannesburg;156.84;2500;0.00;4.06;0.25;35;0.79;0
+35;Quantitative finance;Wirtschafts Universität;77.07;720;0.00;1.99;0.25;32.69;0.85;0
+36;M. Sc. Finance (spécialité financial mathematics);Universität Ulm;120.83;296;0.00;3.12;0.25;32.69;0.85;0
+37;Financial mathematics;Université du Luxembourg;231.95;400;1.00;6.00;0.25;32.69;0.9;0
+38;M. Sc. in quantitative finance;University of Zurich;330.15;2600;0.00;6.47;0.25;32.69;0.8;0
+39;M. Sc. Quantitative finance;Erasmus University Rotterdam;202.98;2168;1.41;6.77;0.25;32.69;0.75;0
+40;Mathematical Finance and Actuarial Science;Technical University of Munich;55.50;284.8;0.00;2.64;0.25;32.69;0.85;0
+41;Master’s in Stochastics and Financial Mathematics;University of Amsterdam;77.46;1084;0.00;5.16;0.25;32.69;0.85;0
+42;Quantitative finance;University of Bologna;157.16;3060;1.41;3.49;0.25;32.69;0.75;0
+43;Quantitative Finance;Vienna University of Economics and Business;604.15;0;0.00;8.63;0.25;32.69;0.9;0
